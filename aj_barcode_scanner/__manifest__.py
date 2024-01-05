@@ -14,8 +14,6 @@
     'category': 'Uncategorized',
     'version': '1.0',
     'license': 'OPL-1',
-    'price':0,
-    'currency':'USD',
 
     # any module necessary for this one to work correctly
     'depends': [ 'point_of_sale'],
