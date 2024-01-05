@@ -14,7 +14,7 @@
     'category': 'Uncategorized',
     'version': '1.0',
     'license': 'OPL-1',
-    'price':19.9,
+    'price':0,
     'currency':'USD',
 
     # any module necessary for this one to work correctly
